@@ -1,11 +1,12 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning SPRING BOOT annnd a looot of stuff around !✨✨
-- 🔭 I’m currently working on few projects that I really enjoy doing like .. I'll tell you a secret !! ... Umm I'm working on my secret beautiful personal business !!!!! ISN'T THAT AMAZING?! .. SHHH .. Don't tell out loud ..... hehehehehe
+- 🔭 I'm having an amazing time working.. Because I made the right choice working at a company with great enviroment and interesting people! <3
 
 <h4> Have fun learning cuties ! </h4>
 But wait !
-Here are some stuff that might help you ... I'll start articles' series and various aspects and teach you what I have learned (only the special stuff ✨✨✨✨✨✨✨✨✨)
+Here are some stuff that might help you ... I'll start articles' series and various aspects and teach you what I have learned
+(only the special stuff ✨✨✨✨✨✨✨✨✨)
 
 
 
