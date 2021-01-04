@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning SPRING BOOT annnd a looot of stuff around !✨✨
+- 🌱 I’m currently learning a looot of stuff around !✨✨
 - 🔭 I'm having an amazing time working.. Because I made the right choice working at a company with great enviroment and interesting people! <3
 
 <h4> Have fun learning cuties ! </h4>
