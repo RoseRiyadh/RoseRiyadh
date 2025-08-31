@@ -12,10 +12,6 @@ Based in **Baghdad, Iraq (UTC+3)** · I design, build, document, and scale produ
 - I love **clean architecture, DX, documentation, and shipping**.
 
 ### What I’m building
-- **Elite KYC / Identity** – ASP.NET Core + PostgreSQL, EF Core, clean architecture
-- **Foreign Workers Management System** – ASP.NET Core APIs, role/permission, ID workflows
-- **QCX Pro** – Queueing/appointments platform for service branches
-- **Q-PON** – Vouchers & discounts (integrated with Qi services)
 - **Hejouzati** – Reservations & ticketing (e-tickets + physical delivery)
 - **Giftaya / Blockers Printing** – Content, branding, and digital products
 
@@ -34,7 +30,7 @@ Based in **Baghdad, Iraq (UTC+3)** · I design, build, document, and scale produ
 
 ## 🛠️ Tech stack & tools
 **Backend:** Laravel, FilamentPHP, ASP.NET Core, EF Core, Spring Boot  
-**Frontend:** React, Next.js, Vue, Tailwind, shadcn/ui  
+**Frontend:** React, Next.js, Vue, Tailwind
 **Data/Infra:** PostgreSQL, Redis, Docker & Compose, Octane, Nginx, MinIO, Typesense  
 **Cloud/DevOps:** DigitalOcean, Google Cloud, GitHub Actions, CI/CD, OpenAPI/Swagger  
 **Product/Docs:** Postman, Notion, Trello, Figma, Mermaid, Markdown
