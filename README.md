@@ -1,5 +1,5 @@
 # Create a polished GitHub profile README for Rose and save it for download
-readme_content = r"""# Hi, I’m Rose Riyadh 👋
+I’m Rose Riyadh 👋
 
 **Software Engineer · Backend (Laravel & ASP.NET Core) · Technical Writer · Builder @ Blockers**  
 Based in **Baghdad, Iraq (UTC+3)** · I design, build, document, and scale production systems.
