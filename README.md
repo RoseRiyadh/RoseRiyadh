@@ -85,8 +85,8 @@ I care a lot about **clear documentation** and developer experience. I write BRD
 > Replace **YOUR_GITHUB_USERNAME** below with your username.
 
 <p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=RoseRiyadh&show_icons=true&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoseRiyadh&layout=compact&hide_border=true" />
 </p>
 
 
