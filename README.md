@@ -1,4 +1,4 @@
-# Create a polished GitHub profile README for Rose and save it for download
+
 I’m Rose Riyadh 👋
 
 **Software Engineer · Backend (Laravel & ASP.NET Core) · Technical Writer · Builder @ Blockers**  
