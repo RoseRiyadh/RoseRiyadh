@@ -52,8 +52,8 @@ Docs: Postman, OpenAPI/Swagger, Markdown
 
 I write BRDs, SRS, ERDs, and API docs (OpenAPI/Scalar) in Arabic & English.
 Articles:
-	•	“You won’t find a job after graduation”
-	•	“Laravel - repository pattern”
+	•	“You won’t find a job after graduation” https://medium.com/@roseriyadh/you-wont-find-a-job-after-graduation-8b5b9343593f
+	•	“Laravel - repository pattern” 
 	•	“Being a software developer is not about code…”
 
 ⸻
